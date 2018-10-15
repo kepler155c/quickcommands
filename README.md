@@ -10,7 +10,7 @@ Quick Commands for linux terminals. Manage scriptlets and directory locations fo
 
 	Example: xr catp cat /ect/profile
 
-`xed <name>` Remember a scriptlet
+`xed <name>` Edit a scriptlet
 
 	Example: xed catp
 
