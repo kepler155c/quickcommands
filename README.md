@@ -1,4 +1,4 @@
-# Quick Commands
+# Quick Commands (command line script manager)
 Quick Commands for linux terminals. Manage scriptlets and directory locations for quickly saving and executing commands as well as shortcuts to favorite directories.
 
 ## Usage
